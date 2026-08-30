@@ -20,8 +20,11 @@
 
 
 **​Architecture \& Tech Stack**
+
 ​Language: Python 3.11 64bit
+
 ​UI Framework: Flet (Flutter-backed UI framework for Python)  
+
 ​Database: SQLite3 (Python native library)  
 
 
