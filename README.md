@@ -7,10 +7,8 @@
 
 * Local-First Persistence: Built-in SQLite database (sqlite3) stores all transactions and group member data locally on your device without network calls.
 * Frictionless Onboarding: Zero login, authentication, or network setup required.  
-* 
-​Proportional Equal Distribution: Automatically calculates equal split amounts for selected group members based on total cost.  
-* 
-​Aggregated Net Balances: Live central dashboard tracking each member's overall standing (who owes money and who is owed money).
+* Proportional Equal Distribution: Automatically calculates equal split amounts for selected group members based on total cost.  
+* Aggregated Net Balances: Live central dashboard tracking each member's overall standing (who owes money and who is owed money).
 * &#x20; 
 ​Dynamic Member Management: Add or remove custom group members directly within the UI.
 * &#x20; 
